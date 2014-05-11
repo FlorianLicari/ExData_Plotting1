@@ -7,4 +7,6 @@ This repo includes the following files:
 * CodeBook.md
 * scripts, folder containing the four scripts generating the figures
 * figure, folder containing the four generated images.
-* "household_power_consumption.txt", the data in ".txt" format
+
+
+To work, the "household_power_consumption.txt" have to be in the working directory.
